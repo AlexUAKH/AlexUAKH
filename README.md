@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandr
 - 👀 I’m interested in coding and learning new
 - 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
