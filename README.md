@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me
-- mailTo:sashaos1404@gmail.com
+-   sashaos1404@gmail.com
 
 <!---
 AlexUAKH/AlexUAKH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
